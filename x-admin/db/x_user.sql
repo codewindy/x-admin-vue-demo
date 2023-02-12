@@ -36,7 +36,5 @@ CREATE TABLE `x_user`  (
 -- ----------------------------
 -- Records of x_user
 -- ----------------------------
-INSERT INTO `x_user` VALUES (1, 'admin', '$2a$10$acukFSL2yw2DR/lQUF.h6uiy3UZINbDHGhQr6CvatBKcRVoliIuNK', NULL, NULL, NULL, 'https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_1622a0843e9f49e1a4f72442e1019f3c~c5_300x300.jpeg?from=2956013662', '0');
-INSERT INTO `x_user` VALUES (2, 'ss', '$2a$10$acukFSL2yw2DR/lQUF.h6uiy3UZINbDHGhQr6CvatBKcRVoliIuNK', NULL, NULL, NULL, 'https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_1622a0843e9f49e1a4f72442e1019f3c~c5_300x300.jpeg?from=2956013662', '0');
 
 SET FOREIGN_KEY_CHECKS = 1;
